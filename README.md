@@ -21,5 +21,3 @@ Ming Wang
 * zhw78@pitt.edu
 * He smells
 * https://www.linkedin.com/in/zhengmingwang/
-
-## Project Description
